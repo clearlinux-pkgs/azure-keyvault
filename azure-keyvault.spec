@@ -4,7 +4,7 @@
 #
 Name     : azure-keyvault
 Version  : 4.1.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/99/94/a7cc3a0e794681e049d1882cb041513dd3624be5d6e138ac486cc8415a81/azure-keyvault-4.1.0.zip
 Source0  : https://files.pythonhosted.org/packages/99/94/a7cc3a0e794681e049d1882cb041513dd3624be5d6e138ac486cc8415a81/azure-keyvault-4.1.0.zip
 Summary  : Microsoft Azure Key Vault Client Libraries for Python
